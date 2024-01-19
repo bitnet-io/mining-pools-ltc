@@ -1040,5 +1040,28 @@
             "/nodeStratum/"
         ],
         "link": "https://anomp.cc"
+    },
+    {
+        "id": 98,
+        "name": "Mining4People",
+        "addresses": [
+            "BJiXNNGLxcVnGnJj5TuKH6qaZ4F3ZdJM8n"
+        ],
+        "tags": [
+            "/Mining4People/"
+        ],
+        "link": "https://mining4people.com/"
+    },
+    {
+        "id": 97,
+        "name": "CMinorsPool",
+        "addresses": [
+            "BJiXNNGLxcVnGnJj5TuKH6qaZ4F3ZdJM8n"
+        ],
+        "tags": [
+            "/Cminors-Pools/"
+        ],
+        "link": "https://au-merged-mine.cminors-pool.com/"
     }
+    
 ]
