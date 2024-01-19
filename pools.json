@@ -1079,8 +1079,20 @@
         ],
         "link": "https://koinium.com/"
     },
-    {
+     {
         "id": 101,
+        "name": "Miningcore",
+        "addresses": [
+            "BJiXNNGLxcVnGnJj5TuKH6qaZ4F3ZdJM8n"
+        ],
+        "tags": [
+            "Miningcore",
+            "/Miningcore/"
+            ],
+        "link": "https://github.com/oliverw/miningcore"
+    },
+    {
+        "id": 102,
         "name": "CMinorsPool",
         "addresses": [
             "BJiXNNGLxcVnGnJj5TuKH6qaZ4F3ZdJM8n"
