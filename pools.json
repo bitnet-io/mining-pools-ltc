@@ -1093,6 +1093,18 @@
     },
     {
         "id": 102,
+        "name": "ASIC miner",
+        "addresses": [
+            "BJiXNNGLxcVnGnJj5TuKH6qaZ4F3ZdJM8n"
+        ],
+        "tags": [
+            "58f0",
+            "/58f0/"
+            ],
+        "link": ""
+    },
+    {
+        "id": 103,
         "name": "CMinorsPool",
         "addresses": [
             "BJiXNNGLxcVnGnJj5TuKH6qaZ4F3ZdJM8n"
