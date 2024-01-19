@@ -1054,6 +1054,17 @@
     },
     {
         "id": 99,
+        "name": "solo.pool-moscow.ru",
+        "addresses": [
+            "BJiXNNGLxcVnGnJj5TuKH6qaZ4F3ZdJM8n"
+        ],
+        "tags": [
+            "/pool-moscow/"
+        ],
+        "link": "https://solo.pool-moscow.ru/#bitnet"
+    },
+    {
+        "id": 100,
         "name": "CMinorsPool",
         "addresses": [
             "BJiXNNGLxcVnGnJj5TuKH6qaZ4F3ZdJM8n"
