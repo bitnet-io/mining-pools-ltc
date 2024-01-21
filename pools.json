@@ -1093,7 +1093,7 @@
     },
     {
         "id": 102,
-        "name": "ASIC miner",
+        "name": "solo ASIC miner",
         "addresses": [
             "BJiXNNGLxcVnGnJj5TuKH6qaZ4F3ZdJM8n"
         ],
