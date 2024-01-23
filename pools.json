@@ -1113,6 +1113,19 @@
     },
     {
         "id": 103,
+        "name": "Rplant",
+        "addresses": [
+            "BJiXNNGLxcVnGnJj5TuKH6qaZ4F3ZdJM8n"
+        ],
+        "tags": [
+            "pool.rplant.xyz",
+            "/pool.rplant.xyz/"
+           
+            ],
+        "link": "https://pool.rplant.xyz/"
+    },
+    {
+        "id": 104,
         "name": "CMinorsPool",
         "addresses": [
             "BJiXNNGLxcVnGnJj5TuKH6qaZ4F3ZdJM8n"
