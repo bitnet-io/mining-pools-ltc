@@ -29,9 +29,7 @@
             "LUazv9uUA4rmdmm54HjzTH72vRahHaKJSc"
         ],
         "tags": [
-            "/Mining-Dutch/",
-            "Mining-Dutch",
-            "Mining-Dutch-"
+            "/Mining-Dutch/"
         ],
         "link": "https://www.mining-dutch.nl"
     },
@@ -1145,5 +1143,18 @@
             "/Cminors/"
         ],
         "link": "https://au-merged-mine.cminors-pool.com/"
+    },
+    {
+        "id": 105,
+        "name": "Mining Dutch",
+        "addresses": [
+            "LUazv9uUA4rmdmm54HjzTH72vRahHaKJSc"
+        ],
+        "tags": [
+            "Mining-Dutch-",
+            "/Mining-Dutch-/"
+            
+        ],
+        "link": "https://www.mining-dutch.nl"
     }
 ]
