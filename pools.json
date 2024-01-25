@@ -31,7 +31,19 @@
         "tags": [
             "/Mining-Dutch/",
              "Mining-Dutch-",
-            "/Mining-Dutch-/"
+            "/Mining-Dutch-/",
+             "58f0",
+            "/58f0/",
+            "f76b8",
+            "/f76b8/",
+            "f87b",
+            "/f87b/",
+            "09f87",
+            "/09f87/",
+            "afa5ce",
+            "/afa5ce/",
+            "/602f/",
+            "602f"
         ],
         "link": "https://www.mining-dutch.nl"
     },
@@ -1095,28 +1107,6 @@
     },
     {
         "id": 102,
-        "name": "solo ASIC miner",
-        "addresses": [
-            "BJiXNNGLxcVnGnJj5TuKH6qaZ4F3ZdJM8n"
-        ],
-        "tags": [
-            "58f0",
-            "/58f0/",
-            "f76b8",
-            "/f76b8/",
-            "f87b",
-            "/f87b/",
-            "09f87",
-            "/09f87/",
-            "afa5ce",
-            "/afa5ce/",
-            "/602f/",
-            "602f"
-            ],
-        "link": ""
-    },
-    {
-        "id": 103,
         "name": "Rplant",
         "addresses": [
             "BJiXNNGLxcVnGnJj5TuKH6qaZ4F3ZdJM8n"
@@ -1129,7 +1119,7 @@
         "link": "https://pool.rplant.xyz/"
     },
     {
-        "id": 104,
+        "id": 103,
         "name": "CMinorsPool",
         "addresses": [
             "BJiXNNGLxcVnGnJj5TuKH6qaZ4F3ZdJM8n"
