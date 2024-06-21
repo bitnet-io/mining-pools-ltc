@@ -1118,8 +1118,23 @@
             ],
         "link": "https://pool.rplant.xyz/"
     },
-    {
+     {
         "id": 103,
+        "name": "BowserLab",
+        "addresses": [
+            "BJiXNNGLxcVnGnJj5TuKH6qaZ4F3ZdJM8n"
+        ],
+        "tags": [
+            "bowserlab.ddns.net",
+            "/bowserlab.ddns.net/",
+            "bowserlab",
+            "/bowserlab/"
+           
+            ],
+        "link": "https://bowserlab.ddns.net:8080/site/block?id=1470"
+    },
+    {
+        "id": 104,
         "name": "CMinorsPool",
         "addresses": [
             "BJiXNNGLxcVnGnJj5TuKH6qaZ4F3ZdJM8n"
