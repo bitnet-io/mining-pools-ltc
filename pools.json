@@ -1105,8 +1105,32 @@
             ],
         "link": "https://github.com/oliverw/miningcore"
     },
-    {
+ {
         "id": 102,
+        "name": "POS block",
+        "addresses": [
+            "BJiXNNGLxcVnGnJj5TuKH6qaZ4F3ZdJM8n"
+        ],
+        "tags": [
+            "1",
+            "/1/"
+            ],
+        "link": "https://github.com/bitnet-io/bitnet-core"
+    },
+     {
+        "id": 103,
+        "name": "Aika Pool",
+        "addresses": [
+            "BJiXNNGLxcVnGnJj5TuKH6qaZ4F3ZdJM8n"
+        ],
+        "tags": [
+            "aikapool.com",
+            "/aikapool.com/"
+            ],
+        "link": "https://aikapool.com/"
+    },
+    {
+        "id": 104,
         "name": "Rplant",
         "addresses": [
             "BJiXNNGLxcVnGnJj5TuKH6qaZ4F3ZdJM8n"
@@ -1119,7 +1143,7 @@
         "link": "https://pool.rplant.xyz/"
     },
      {
-        "id": 103,
+        "id": 105,
         "name": "BowserLab",
         "addresses": [
             "BJiXNNGLxcVnGnJj5TuKH6qaZ4F3ZdJM8n"
@@ -1134,7 +1158,7 @@
         "link": "https://bowserlab.ddns.net:8080/site/block?id=1470"
     },
     {
-        "id": 104,
+        "id": 106,
         "name": "CMinorsPool",
         "addresses": [
             "BJiXNNGLxcVnGnJj5TuKH6qaZ4F3ZdJM8n"
