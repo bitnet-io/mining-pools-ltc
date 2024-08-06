@@ -1157,8 +1157,20 @@
             ],
         "link": "https://bowserlab.ddns.net:8080/site/block?id=1470"
     },
-    {
+       {
         "id": 106,
+        "name": "XPool.pw",
+        "addresses": [
+            "BJiXNNGLxcVnGnJj5TuKH6qaZ4F3ZdJM8n"
+        ],
+        "tags": [
+            "xpool.pw",
+            "/xpool.pw/"
+            ],
+        "link": "https://xpool.pw/"
+    },
+    {
+        "id": 107,
         "name": "CMinorsPool",
         "addresses": [
             "BJiXNNGLxcVnGnJj5TuKH6qaZ4F3ZdJM8n"
